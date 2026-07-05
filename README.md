@@ -4,20 +4,6 @@
 * 🌱 currently learning  Java, Python, and DSA concepts.
 * 🔭 open to learning new industry workflows and gaining hands-on software development experience.
 
+## 🛠️ Languages & Tools
 
----
-## 🛠️ Technical Skills
-
-### Languages
-<img src="https://skillicons.dev/icons?i=java,py,js" />
-
-### Frontend
-<img src="https://skillicons.dev/icons?i=html,css,react" />
-
-### Backend & Databases
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
-
-### Tools & Cloud Environment
-<img src="https://skillicons.dev/icons?i=git,github,vscode,azure" />
-
-
+[![My Skills](https://skillicons.dev/icons?i=java,py,html,css,js,ts,react,nodejs,express,mongodb,mysql,git,github,vscode,aws)](https://skillicons.dev)
