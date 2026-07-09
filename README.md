@@ -1,8 +1,8 @@
 👋 Hi, I’m @shikha033.
 
-* 👀 I’m interested in web development, data structures and algorithms.
-* 🌱 currently learning  Java, Python, and DSA concepts.
-* 🔭 open to learning new industry workflows and gaining hands-on software development experience.
+* 🌱 currently working on MERN stack and Java projects
+* 🔭 open to learning new industry workflows and gaining hands-on software development experience
+
 
 ## 🛠️ Languages & Tools
 
